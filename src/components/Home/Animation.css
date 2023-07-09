@@ -1,0 +1,8 @@
+.btn-appear {
+  transform: translateX(-100%);
+}
+
+.btn-appear-active {
+  transform: translateX(0);
+  transition: transform 500ms linear;
+}
